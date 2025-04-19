@@ -4,7 +4,7 @@
 
 # VER
 
-Stands for Vanilla Enchanced Renderer, client-side fully-featured (and beyond) Half-Life renderer with OpenGL 3.3 as basis. Tested on 8800GTS for compatability and performance. (Sorry, no bindless, mesh shaders, deferred rendering and other fancy stuff, but cpu will handle it just fine, don't worry).
+Stands for Vanilla Enchanced Renderer, fully client-side and fully-featured (and beyond) Half-Life renderer with OpenGL 3.3 as basis. Tested on 8800GTS for compatability and performance. (Sorry, no bindless, mesh shaders, deferred rendering and other fancy stuff, but cpu will handle it just fine, don't worry).
 
 
 # Purpose
