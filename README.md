@@ -5,7 +5,7 @@
 # VER
 
 Stands for Vanilla Enchanced Renderer, fully client-side and fully-featured (and beyond) Half-Life renderer with OpenGL 3.3 as basis. Tested on 8800GTS for compatability and performance. (Sorry, no bindless, mesh shaders, deferred rendering and other fancy stuff, but cpu will handle it just fine, don't worry).
-
+(this repo might be not up to date, because renderer is an internal work and will be used in Black Mesa: Classic) but I plan to release it separately over the clean SDK.
 
 # Purpose
 
