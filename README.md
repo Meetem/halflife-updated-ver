@@ -2,6 +2,11 @@
 
 [Half-Life Updated](https://github.com/twhl-community/halflife-updated), [Opposing Force Updated](https://github.com/twhl-community/halflife-op4-updated) and [Blue Shift Updated](https://github.com/twhl-community/halflife-bs-updated) are repositories that provide updated versions of the Half-Life SDK, targeted to the 3 Half-Life 1 PC games officially available.
 
+# VER
+
+Stands for Vanilla Enchanced Renderer, client-side fully-featured (and beyond) Half-Life renderer with OpenGL 3.3 as basis. Tested on 8800GTS for compatability and performance. (Sorry, no bindless, mesh shaders, deferred rendering and other fancy stuff, but cpu will handle it just fine, don't worry).
+
+
 # Purpose
 
 Each repository provides project files compatible with Visual Studio 2019 and 2022, as well as bug fixes. The Opposing Force and Blue Shift projects are reference implementations of their respective games. This means they provide the original features, implemented as they are in the original games, including the many cases of code duplication.
